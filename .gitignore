@@ -1,0 +1,23 @@
+# 忽略所有test开头的文件夹、文件
+test*/
+test*
+
+# Python 通用忽略
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+venv/
+.venv/
+env/
+.env
+*.log
+
+# Flutter 通用忽略
+build/
+.ios/
+.android/
+.flutter-plugins
+.pub/
+.pubspec.lock
+.DS_Store
