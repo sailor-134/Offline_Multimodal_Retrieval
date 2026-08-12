@@ -21,3 +21,6 @@ build/
 .pub/
 .pubspec.lock
 .DS_Store
+
+# 数据集仅本地保留，不上传远程仓库
+datasets/
